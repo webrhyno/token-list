@@ -6,7 +6,11 @@
       "decimals": 9,
       "logoURI": "https://ipfs.filebase.io/ipfs/QmPew6TukR6pXgtyWZ9C1gB1qUyS16PSgUbNfj24aGjcmc",
       "tags": [
-        "social-token"
+        "social-token",
+        "defi",
+        "memecoin",
+        "utility-token",
+        "dex"
       ],
       "extensions": {
       "website": "https://dollocoin.com/",
